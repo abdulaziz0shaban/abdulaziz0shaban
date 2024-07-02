@@ -1,9 +1,6 @@
 ### Hi there 👋🏻 I'm Youssef Guba
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Exp-0+yrs-red)
 
-[![Linkedin Badge](https://img.shields.io/badge/abdulaziz shaban-30302f?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/abdelaziz-shaban-b3a297255/])
-[![Facebook Badge](https://img.shields.io/badge/abdulaziz shaban -30302f?style=flat&logo=facebook)(https://www.facebook.com/abdeleaziz.shapan/)]
-[![Gmail Badge](https://img.shields.io/badge/abdelazizs983@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:abdelazizs983@gmail.com)
 
 Hi, I'm abdulaziz shaban, flutter Developer 🚀 from Egypt.
 - 🐳 beginner Flutter Developer , 
