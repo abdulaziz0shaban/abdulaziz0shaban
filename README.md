@@ -4,7 +4,7 @@
 
 Hi, I'm abdulaziz shaban, flutter Developer 🚀 from Egypt.
 - 🐳 beginner Flutter Developer , 
-- 💻 I learning programming by faculty o
+- 💻 I learning programming by faculty computer science 
 - 👓 Give a courses about Mobile Application Development. 
 - 📫 You can reach me on abdelazizs983@gmail.com:
 
